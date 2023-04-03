@@ -1,43 +1,43 @@
 "use strict";
 
-// alert ('Hello!');
+alert ('Hello!');
 
-// const input = confirm('Are you crazy?');
-// console.log(input);
+const input = confirm('Are you crazy?');
+console.log(input);
 
-// const answer = +prompt('Vam est 18?', '18');
-// console.log(answer + 5);
+const answer = +prompt('Vam est 18?', '18');
+console.log(answer + 5);
 
-// const answers = [];
+const answers = [];
 
-// answers[0] = prompt('Как Ваше имя?', '');
-// answers[1] = prompt('Как Ваша фамилия?', '');
-// answers[2] = prompt('Сколько Вам лет?', '');
+answers[0] = prompt('Как Ваше имя?', '');
+answers[1] = prompt('Как Ваша фамилия?', '');
+answers[2] = prompt('Сколько Вам лет?', '');
 
-// console.log(typeof(answers));
-
-
+console.log(typeof(answers));
 
 
+bla bla blag
 
-// const category = 'toys';
 
-// console.log(`https://someurl.com/${category}/5`);
+const category = 'toys';
 
-// const user = 'Artemiy';
+console.log(`https://someurl.com/${category}/5`);
 
-// alert(`Привет, ${user}!`)
+const user = 'Artemiy';
 
-// let incr = 10;
-// let decr = 10;
+alert(`Привет, ${user}!`)
 
-// incr++;
-// decr--;
+let incr = 10;
+let decr = 10;
 
-// console.log(++incr, decr--)
-// console.log(incr, decr)
+incr++;
+decr--;
 
-// console.log(2 === 2);
+console.log(++incr, decr--)
+console.log(incr, decr)
+
+console.log(2 === 2);
 
     const isChecked = false,
         isClose = false;
