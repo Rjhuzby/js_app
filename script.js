@@ -43,3 +43,5 @@
         isClose = false;
 
     console.log(isChecked || !isClose);
+
+console.log('yes')
