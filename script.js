@@ -17,8 +17,6 @@ answers[2] = prompt('Сколько Вам лет?', '');
 console.log(typeof(answers));
 
 
-bla bla blag
-
 
 const category = 'toys';
 
