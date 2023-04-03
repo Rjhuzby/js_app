@@ -5,3 +5,6 @@ width: 50px;
 class.young {
     height: 10px;
 }
+class.love {
+    box-sizing: border-box;
+}
